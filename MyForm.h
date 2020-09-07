@@ -648,7 +648,7 @@ namespace Project5 {
 			groupBox2->Hide();
 			groupBox4->Hide();
 			dataGridView1->Hide();
-
+			/*asdasd*/
 		}
 		else 
 			if
